@@ -1,7 +1,7 @@
 # 📊 Data Analyst Portfolio – [sohan pate]
 
 Welcome to my data analyst portfolio! I specialize in turning raw data into meaningful insights using tools like Python, SQL, and Tableau. With hands-on project experience and a solid academic background, I bring both analytical depth and business understanding to every challenge.
-
+![image alt](https://github.com/Sp007123/dataanalyst.oi/blob/main/sohan.jpg?raw=true)
 ---
 
 ## 👤 Profile Summary
