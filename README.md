@@ -50,7 +50,7 @@ Welcome to my data analyst portfolio! I specialize in turning raw data into mean
 
 ## 🎓 Education
 
-- Bachelor's in Computer Engineering | [L. D. College of Engineering[https://ldce.ac.in]] | June 2015 – april 2019 | GPA: 6.7
+- Bachelor's in Computer Engineering | [L. D. College of Engineering[https://ldce.ac.in]] | June 2015 – april 2019 | GPA: 6.7[https://github.com/Sp007123/dataanalyst.oi/blob/main/Degree%20Certificate.pdf]
 - High School., maths | School Name : Lions English School | June 2013 – Jan 2015 | Score: 78%
 
 ---
