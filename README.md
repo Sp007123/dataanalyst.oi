@@ -24,7 +24,7 @@ Welcome to my data analyst portfolio! I specialize in turning raw data into mean
 
 ## 💼 Professional Experience
 
-**[Company Name], [Location] — [Position]**  
+**[Google], [Location] — [Position]**  
 *Time Period*
 
 - Automated classification of healthcare documents using **Python, Tesseract, and Regex**, reducing processing time from 50 mins to 2 mins
@@ -32,6 +32,7 @@ Welcome to my data analyst portfolio! I specialize in turning raw data into mean
 - Developed dynamic pricing insights using **time series analysis with BQML**, contributing to a **2% YoY revenue growth**
 - Analyzed insurance claims using statistical tests (Chi-square, T-distribution), and cleaned data with Pandas
 - Collaborated closely with engineering and business teams using **Agile/Scrum** methodology
+  https://coursera.org/share/7cc3e9f259f62dd29ee9436cb659d561
 
 ---
 
