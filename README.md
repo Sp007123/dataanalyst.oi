@@ -45,13 +45,13 @@ Welcome to my data analyst portfolio! I specialize in turning raw data into mean
 - Cleaned and analyzed data using **Pandas**, and built **interactive dashboards** in Tableau
 - Project impacted 200+ students, with 37 successfully landing jobs using insights
 
-![LinkedIn Dashboard](/images/image1.png)
+![www.linkedin.com/in/sp007123]
 ---
 
 ## 🎓 Education
 
-- Bachelor's in Economics and Statistics | [University Name] | June 2016 – Jan 2020 | GPA: 3.7
-- High School., maths | School Name | June 2012 – Jan 2015 | Score: 99%
+- Bachelor's in Computer Engineering | [L. D. College of Engineering[https://ldce.ac.in]] | June 2015 – april 2019 | GPA: 6.7
+- High School., maths | School Name : Lions English School | June 2013 – Jan 2015 | Score: 78%
 
 ---
 
@@ -74,7 +74,7 @@ Welcome to my data analyst portfolio! I specialize in turning raw data into mean
 
 - 📧 Email: [sohanpatel0008@gmail.com]  
 - 🔗 LinkedIn: [www.linkedin.com/in/sp007123]  
-- 💻 GitHub: [GitHub Portfolio]
+- 💻 GitHub: [(https://sp007123.github.io/dataanalyst.oi/)]
 
 ---
 
