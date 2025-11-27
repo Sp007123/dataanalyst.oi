@@ -73,7 +73,7 @@ Welcome to my data analyst portfolio! I specialize in turning raw data into mean
 ## 📬 Let’s Connect!
 
 - 📧 Email: [sohanpatel0008@gmail.com]  
-- 🔗 LinkedIn: [LinkedIn Profile]  
+- 🔗 LinkedIn: [www.linkedin.com/in/sp007123]  
 - 💻 GitHub: [GitHub Portfolio]
 
 ---
